@@ -53,6 +53,6 @@ What is provided as part of the building itself, or by building
 management? These are often so common that they're easy to overlook,
 until something goes wrong with them.
 
--
--
--
+- Plumbing
+- Lighting
+- AC
